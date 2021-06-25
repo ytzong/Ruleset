@@ -1,24 +1,24 @@
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,fbcdn.net
-USER-AGENT,Instagram*
+DOMAIN-SUFFIX,instagram.com,PROXY
+DOMAIN-SUFFIX,facebook.com,PROXY
+DOMAIN-SUFFIX,cdninstagram.com,PROXY
+DOMAIN-SUFFIX,fbcdn.net,PROXY
+USER-AGENT,Instagram*,PROXY
 
-DOMAIN-SUFFIX,facebook.net
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbaddins.com
-DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,fbworkmail.com
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,m.me
-DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,rocksdb.org
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,facebook.net,PROXY
+DOMAIN-SUFFIX,fb.com,PROXY
+DOMAIN-SUFFIX,fb.me,PROXY
+DOMAIN-SUFFIX,fbaddins.com,PROXY
+DOMAIN-SUFFIX,fbsbx.com,PROXY
+DOMAIN-SUFFIX,fbworkmail.com,PROXY
+DOMAIN-SUFFIX,instagram.com,PROXY
+DOMAIN-SUFFIX,m.me,PROXY
+DOMAIN-SUFFIX,messenger.com,PROXY
+DOMAIN-SUFFIX,oculus.com,PROXY
+DOMAIN-SUFFIX,oculuscdn.com,PROXY
+DOMAIN-SUFFIX,rocksdb.org,PROXY
+DOMAIN-SUFFIX,whatsapp.com,PROXY
+DOMAIN-SUFFIX,whatsapp.net,PROXY
 
-DOMAIN-KEYWORD,.facebook.
+DOMAIN-KEYWORD,.facebook.,PROXY
 
-USER-AGENT,FBiOSSDK*
+USER-AGENT,FBiOSSDK*,PROXY
