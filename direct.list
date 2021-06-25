@@ -7,6 +7,13 @@ DOMAIN-SUFFIX,appannie.com
 DOMAIN-KEYWORD,mac-torrents.com
 DOMAIN-SUFFIX,melogin.cn
 DOMAIN-SUFFIX,seagm.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,360buy.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,gtimg.cn
 
 USER-AGENT,FDM*
 USER-AGENT,*360freewifi*
@@ -15,6 +22,22 @@ USER-AGENT,CloudSpeed*
 USER-AGENT,Settings*
 USER-AGENT,MbapMPaaS*
 USER-AGENT,*JDMobileLite*
+USER-AGENT,*qqlive*
+USER-AGENT,SpeedTest*
+
+# > Router managed
+HOST,router.asus.com
+HOST-SUFFIX,hiwifi.com
+HOST-SUFFIX,leike.cc
+HOST-SUFFIX,miwifi.com
+HOST-SUFFIX,my.router
+HOST-SUFFIX,p.to
+HOST-SUFFIX,peiluyou.com
+HOST-SUFFIX,phicomm.me
+HOST-SUFFIX,routerlogin.com
+HOST-SUFFIX,tendawifi.com
+HOST-SUFFIX,tplinkwifi.net
+HOST-SUFFIX,zte.home
 
 # > Velo
 
