@@ -38,6 +38,9 @@ DOMAIN-SUFFIX,tendawifi.com,DIRECT
 DOMAIN-SUFFIX,tplinkwifi.net,DIRECT
 DOMAIN-SUFFIX,zte.home,DIRECT
 
+# 农行
+USER-AGENT,MbapMPaaS*,DIRECT
+
 # > Velo
 
 USER-AGENT,velo*,DIRECT

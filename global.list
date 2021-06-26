@@ -1,24 +1,24 @@
 DOMAIN-SUFFIX,feedly.com,PROXY
-DOMAIN-SUFFIX,paxos.com,PROXY
 DOMAIN-SUFFIX,v2ex.com,PROXY
 DOMAIN-SUFFIX,medium.com,PROXY
 DOMAIN-SUFFIX,t66y.com,PROXY
-DOMAIN-SUFFIX,coinbase.com,PROXY
-DOMAIN-SUFFIX,upload.cc,PROXY
-DOMAIN-SUFFIX,gfycat.com,PROXY
-DOMAIN-SUFFIX,celebjihad.com,PROXY
-DOMAIN-SUFFIX,opensubtitles.org,PROXY
-DOMAIN-SUFFIX,tmdb.org,PROXY
 DOMAIN-SUFFIX,nssurge.com,PROXY
 DOMAIN-SUFFIX,adguard.com,PROXY
-DOMAIN-SUFFIX,bing.com,PROXY
 DOMAIN-SUFFIX,bandwagonhost.com,PROXY
-DOMAIN-SUFFIX,highwebmedia.com,PROXY
+
 DOMAIN-SUFFIX,transmissionbt.com,PROXY
 USER-AGENT,Aweme*,PROXY
 IP-CIDR,8.8.8.8/32,PROXY,no-resolve
 
+# > Google Photos
+USER-AGENT,Google*相册,PROXY
+USER-AGENT,Google*%E7%9B%B8%E5%86%8C*,PROXY
+USER-AGENT,Google*Photos*,PROXY
+USER-AGENT,com.google.photos*,PROXY
+USER-AGENT,mediaserverd*,PROXY
+
 # > Dropbox
+USER-AGENT,Dropbox*,PROXY
 DOMAIN-SUFFIX,dropbox.com,PROXY
 DOMAIN-SUFFIX,dropboxapi.com,PROXY
 DOMAIN-SUFFIX,dropboxusercontent.com,PROXY
@@ -32,6 +32,16 @@ DOMAIN-SUFFIX,githubusercontent.com,PROXY
 DOMAIN-SUFFIX,redd.it,PROXY
 DOMAIN-SUFFIX,reddit.com,PROXY
 DOMAIN-SUFFIX,redditmedia.com,PROXY
+
+# > Twitter
+// DOMAIN-SUFFIX,twitter.com,PROXY
+DOMAIN-SUFFIX,pscp.tv,PROXY
+DOMAIN-SUFFIX,periscope.tv,PROXY
+DOMAIN-SUFFIX,t.co,PROXY
+DOMAIN-SUFFIX,twimg.co,PROXY
+DOMAIN-SUFFIX,twimg.com,PROXY
+DOMAIN-SUFFIX,twitpic.com,PROXY
+DOMAIN-SUFFIX,vine.co,PROXY
 
 # > Telegram
 DOMAIN-SUFFIX,t.me,PROXY
@@ -49,15 +59,6 @@ IP-CIDR,91.108.56.0/22,PROXY,no-resolve
 IP-CIDR,95.161.64.0/20,PROXY,no-resolve
 IP-CIDR,149.154.160.0/20,PROXY,no-resolve
 
-# > Twitter
-DOMAIN-SUFFIX,pscp.tv,PROXY
-DOMAIN-SUFFIX,periscope.tv,PROXY
-DOMAIN-SUFFIX,t.co,PROXY
-DOMAIN-SUFFIX,twimg.co,PROXY
-DOMAIN-SUFFIX,twimg.com,PROXY
-DOMAIN-SUFFIX,twitpic.com,PROXY
-DOMAIN-SUFFIX,twitter.com,PROXY
-DOMAIN-SUFFIX,vine.co,PROXY
 
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,wikileaks.org,PROXY
