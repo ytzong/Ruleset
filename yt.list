@@ -1,13 +1,16 @@
-USER-AGENT,com.google.ios.youtube*,PROXY
-USER-AGENT,YouTube*,PROXY
-DOMAIN-SUFFIX,googlevideo.com,PROXY
+# Youtube
 DOMAIN-SUFFIX,youtube.com,PROXY
-DOMAIN-SUFFIX,ytimg.com,PROXY
 DOMAIN-SUFFIX,googleapis.com,PROXY
-DOMAIN-SUFFIX,yt3.ggpht.com,PROXY
 DOMAIN-SUFFIX,youtu.be,PROXY
 DOMAIN-SUFFIX,yt.be,PROXY
+
+USER-AGENT,com.google.ios.youtube*,PROXY
+USER-AGENT,YouTube*,PROXY
+
 DOMAIN-SUFFIX,googleusercontent.com,PROXY
+DOMAIN-SUFFIX,googlevideo.com,PROXY
+DOMAIN-SUFFIX,ytimg.com,PROXY
+DOMAIN-SUFFIX,ggpht.com,PROXY
 
 # > Youtube_Music
 USER-AGENT,*YouTubeMusic*,PROXY

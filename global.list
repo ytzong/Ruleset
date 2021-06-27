@@ -33,7 +33,7 @@ DOMAIN-SUFFIX,reddit.com,PROXY
 DOMAIN-SUFFIX,redditmedia.com,PROXY
 
 # > Twitter
-DOMAIN-SUFFIX,twitter.com,PROXY
+// DOMAIN-SUFFIX,twitter.com,PROXY
 DOMAIN-SUFFIX,pscp.tv,PROXY
 DOMAIN-SUFFIX,periscope.tv,PROXY
 // DOMAIN-SUFFIX,t.co,PROXY
