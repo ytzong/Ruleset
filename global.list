@@ -15,7 +15,6 @@ USER-AGENT,Google*相册,PROXY
 USER-AGENT,Google*%E7%9B%B8%E5%86%8C*,PROXY
 USER-AGENT,Google*Photos*,PROXY
 USER-AGENT,com.google.photos*,PROXY
-USER-AGENT,mediaserverd*,PROXY
 
 # > Dropbox
 USER-AGENT,Dropbox*,PROXY
