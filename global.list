@@ -84,24 +84,6 @@ DOMAIN-SUFFIX,wikinews.org,PROXY
 DOMAIN-SUFFIX,wikipedia.org,PROXY
 DOMAIN-SUFFIX,wikiquote.org,PROXY
 
-# > Youtube
-//DOMAIN-SUFFIX,youtube.com,PROXY
-DOMAIN-SUFFIX,googleapis.com,PROXY
-DOMAIN-SUFFIX,youtu.be,PROXY
-DOMAIN-SUFFIX,yt.be,PROXY
-
-USER-AGENT,com.google.ios.youtube*,PROXY
-USER-AGENT,YouTube*,PROXY
-
-DOMAIN-SUFFIX,googleusercontent.com,PROXY
-//DOMAIN-SUFFIX,googlevideo.com,PROXY
-DOMAIN-SUFFIX,ytimg.com,PROXY
-DOMAIN-SUFFIX,ggpht.com,PROXY
-
-# > Youtube_Music
-USER-AGENT,*YouTubeMusic*,PROXY
-USER-AGENT,*com.google.ios.youtubemusic*,PROXY
-
 DOMAIN-SUFFIX,appspot.com,PROXY
 DOMAIN-SUFFIX,blogger.com,PROXY
 DOMAIN-SUFFIX,getoutline.org,PROXY
