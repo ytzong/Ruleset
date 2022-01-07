@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,celebjihad.com,PROXY
 USER-AGENT,Aweme*,PROXY
 IP-CIDR,8.8.8.8/32,PROXY,no-resolve
 
+# > ₿
+DOMAIN-SUFFIX,qkl123.com,PROXY
+
 # > Fackbook
 DOMAIN-SUFFIX,facebook.com,PROXY
 DOMAIN-SUFFIX,cdninstagram.com,PROXY
