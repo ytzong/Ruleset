@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,xianliao.me,REJECT
 DOMAIN-KEYWORD,taboola,REJECT
 DOMAIN-SUFFIX,tagtic.cn,REJECT
+DOMAIN-SUFFIX,gifshow.com,REJECT
 
 # Shenzhen Unicom Float
 IP-CIDR,120.80.57.123/32,REJECT,no-resolve
