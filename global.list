@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX,tiktok.com,PROXY
 DOMAIN-SUFFIX,feedly.com,PROXY
 DOMAIN-SUFFIX,v2ex.com,PROXY
 DOMAIN-SUFFIX,medium.com,PROXY
@@ -17,6 +16,7 @@ DOMAIN-SUFFIX,celebjihad.com,PROXY
 DOMAIN-SUFFIX,sensortower.com,PROXY
 DOMAIN-SUFFIX,cnbeta.com,PROXY,force-remote-dns
 DOMAIN-KEYWORD,duolingo,PROXY
+DOMAIN-KEYWORD,tiktok,PROXY
 USER-AGENT,Aweme*,PROXY
 IP-CIDR,8.8.8.8/32,PROXY,no-resolve
 
