@@ -163,7 +163,7 @@ DOMAIN-SUFFIX,ad.daum.net
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adinall.com
 DOMAIN-SUFFIX,admaster.com.cn
-DOMAIN-SUFFIX,admob.com
+# DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,adnyg.com
 DOMAIN-SUFFIX,adsensor.org
