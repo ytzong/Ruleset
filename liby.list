@@ -296,11 +296,6 @@ DOMAIN,tunion-api.m.taobao.com
 IP-CIDR,112.29.211.120/32,no-resolve
 IP-CIDR,203.119.206.64/32,no-resolve
 IP-CIDR,203.119.211.219/32,no-resolve
-# > Apple
-DOMAIN-SUFFIX,ads.internal.unity3d.com
-DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
-DOMAIN-SUFFIX,iadsdk.apple.com
-DOMAIN-SUFFIX,unityads.unity3d.com
 # > AutoHome
 DOMAIN,adproxy.autohome.com.cn
 DOMAIN,al.autohome.com.cn
@@ -560,11 +555,7 @@ DOMAIN-KEYWORD,addthis.com
 DOMAIN-KEYWORD,vungle.com
 DOMAIN-KEYWORD,rayjump.com
 DOMAIN-SUFFIX,analytics.dspunion.com
-DOMAIN-SUFFIX,inappcheck.itunes.apple.com
-#youtube客户端会受影响DOMAIN-KEYWORD,googleapis.com
 DOMAIN-SUFFIX,auiopt.unityads.unity3d.com
-DOMAIN-SUFFIX,xp.apple.com
-DOMAIN-SUFFIX,apptrailers.itunes.apple.com
 DOMAIN-SUFFIX,unitychina.cn,
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,widgets.pinterest.com
