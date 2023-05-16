@@ -1,0 +1,30 @@
+DOMAIN-SUFFIX,paxos.com,PROXY
+DOMAIN-SUFFIX,coinbase.com,PROXY
+DOMAIN-SUFFIX,bing.com,PROXY
+DOMAIN-SUFFIX,yahoo.com,PROXY
+DOMAIN-SUFFIX,yahoo.net,PROXY
+DOMAIN-SUFFIX,vimeo.com,PROXY
+DOMAIN-SUFFIX,vevo.com,PROXY
+DOMAIN-SUFFIX,xite.com,PROXY
+DOMAIN-SUFFIX,openai.com,PROXY
+DOMAIN-SUFFIX,twitter.com,PROXY
+DOMAIN-SUFFIX,t.co,PROXY
+DOMAIN-SUFFIX,instagram.com,PROXY
+
+# > Youtube
+
+
+DOMAIN-SUFFIX,youtube.com,PROXY
+DOMAIN-SUFFIX,googleapis.com,PROXY
+DOMAIN-SUFFIX,youtubei.googleapis.com,PROXY
+DOMAIN-SUFFIX,youtu.be,PROXY
+DOMAIN-SUFFIX,yt.be,PROXY
+DOMAIN-SUFFIX,googleusercontent.com,PROXY
+DOMAIN-SUFFIX,googlevideo.com,PROXY
+DOMAIN-SUFFIX,ytimg.com,PROXY
+DOMAIN-SUFFIX,ggpht.com,PROXY
+
+# > Youtube_Music
+
+
+
