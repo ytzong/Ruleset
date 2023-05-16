@@ -1,0 +1,14 @@
+# > YouTubeMusic
+# ⚠️ 注意，需要放置在 YouTube.list 之前，且不适用于 Quantumult X 及浏览器环境
+DOMAIN,music.youtube.com
+# > Youtube
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,video.google.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ggpht.com

@@ -1,21 +1,21 @@
 # > YouTubeMusic
 # ⚠️ 注意，需要放置在 YouTube.list 之前，且不适用于 Quantumult X 及浏览器环境
-USER-AGENT,com.google.ios.youtubemusic*
-USER-AGENT,YouTubeMusic*
-DOMAIN,music.youtube.com
+USER-AGENT,com.google.ios.youtubemusic*,YOUTUBE
+USER-AGENT,YouTubeMusic*,YOUTUBE
+DOMAIN,music.youtube.com,YOUTUBE
 
 # > Youtube
-USER-AGENT,*youtube*
-USER-AGENT,YouTube*
-USER-AGENT,com.google.ios.youtube*
-DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,video.google.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,ggpht.com
+USER-AGENT,*youtube*,YOUTUBE
+USER-AGENT,YouTube*,YOUTUBE
+USER-AGENT,com.google.ios.youtube*,YOUTUBE
+DOMAIN-KEYWORD,youtube,YOUTUBE
+DOMAIN-SUFFIX,youtube.com,YOUTUBE
+DOMAIN-SUFFIX,googleapis.com,YOUTUBE
+DOMAIN-SUFFIX,youtu.be,YOUTUBE
+DOMAIN-SUFFIX,yt.be,YOUTUBE
+DOMAIN-SUFFIX,googleusercontent.com,YOUTUBE
+DOMAIN-SUFFIX,googlevideo.com,YOUTUBE
+DOMAIN-SUFFIX,video.google.com,YOUTUBE
+DOMAIN-SUFFIX,ytimg.com,YOUTUBE
+DOMAIN-SUFFIX,ggpht.com,YOUTUBE
 
