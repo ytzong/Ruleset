@@ -6,6 +6,22 @@ DOMAIN-SUFFIX,yahoo.net
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vevo.com
 DOMAIN-SUFFIX,xite.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,t.co
+# > Fackbook
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbaddins.com
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbworkmail.com
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-KEYWORD,.facebook.
