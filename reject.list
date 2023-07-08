@@ -3,5 +3,16 @@ DOMAIN-KEYWORD,taboola,REJECT
 DOMAIN-SUFFIX,tagtic.cn,REJECT
 DOMAIN-SUFFIX,gifshow.com,REJECT
 
+#欺诈性网站警告
+#https://developers.google.com/safe-browsing/
+DOMAIN,safebrowsing.googleapis.com,REJECT
+DOMAIN,safebrowsing.googleapis-cn.com,REJECT
+#https://anquan.baidu.com/article/281
+DOMAIN,lookup.api.bsb.baidu.com,REJECT
+#https://opensource.apple.com/source/WebKit2/WebKit2-7607.2.6.1.1/UIProcess/Cocoa/SafeBrowsingWarningCocoa.mm.auto.html
+DOMAIN-SUFFIX,urlsec.qq.com,REJECT
+DOMAIN,safebrowsing.urlsec.qq.com,REJECT
+DOMAIN,www.urlsec.qq.com,REJECT
+
 # Shenzhen Unicom Float
 IP-CIDR,120.80.57.123/32,REJECT,no-resolve
