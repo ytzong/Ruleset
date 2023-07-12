@@ -10,8 +10,8 @@ DOMAIN-SUFFIX,xite.com,US
 
 # > Fackbook
 DOMAIN-SUFFIX,facebook.com,US
-DOMAIN-SUFFIX,cdninstagram.com,US
-DOMAIN-SUFFIX,fbcdn.net,US
+#DOMAIN-SUFFIX,cdninstagram.com,US
+#DOMAIN-SUFFIX,fbcdn.net,US
 USER-AGENT,Instagram*,US
 
 DOMAIN-SUFFIX,facebook.net,US

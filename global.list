@@ -20,6 +20,11 @@ DOMAIN-KEYWORD,tiktok,PROXY
 USER-AGENT,Aweme*,PROXY
 IP-CIDR,8.8.8.8/32,PROXY,no-resolve
 
+
+# > Fackbook CDN
+DOMAIN-SUFFIX,cdninstagram.com,US
+DOMAIN-SUFFIX,fbcdn.net,US
+
 # > ₿
 DOMAIN-SUFFIX,qkl123.com,PROXY
 

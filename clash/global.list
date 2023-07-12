@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,cnbeta.com
 DOMAIN-KEYWORD,duolingo
 DOMAIN-KEYWORD,tiktok
 IP-CIDR,8.8.8.8/32
+# > Fackbook CDN
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,fbcdn.net
 # > ₿
 DOMAIN-SUFFIX,qkl123.com
 # > Dropbox

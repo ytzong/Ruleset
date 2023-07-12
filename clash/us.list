@@ -8,8 +8,8 @@ DOMAIN-SUFFIX,vevo.com
 DOMAIN-SUFFIX,xite.com
 # > Fackbook
 DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,fbcdn.net
+#DOMAIN-SUFFIX,cdninstagram.com
+#DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
