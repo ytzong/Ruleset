@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,vimeo.com,US
 DOMAIN-SUFFIX,vevo.com,US
 DOMAIN-SUFFIX,xite.com,US
 
+# > Twitter
+DOMAIN-SUFFIX,twitter.com,US
 
 # > Fackbook
 DOMAIN-SUFFIX,facebook.com,US
