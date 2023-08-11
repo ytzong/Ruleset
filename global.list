@@ -61,13 +61,13 @@ IP-CIDR,95.161.64.0/20,PROXY,no-resolve
 IP-CIDR,149.154.160.0/20,PROXY,no-resolve
 
 # > Twitter CDN
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,pscp.tv,PROXY
+DOMAIN-SUFFIX,periscope.tv,PROXY
+DOMAIN-SUFFIX,t.co,PROXY
+DOMAIN-SUFFIX,twimg.co,PROXY
+DOMAIN-SUFFIX,twimg.com,PROXY
+DOMAIN-SUFFIX,twitpic.com,PROXY
+DOMAIN-SUFFIX,vine.co,PROXY
 
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,wikileaks.org,PROXY
