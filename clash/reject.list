@@ -1,6 +1,23 @@
+# weiphone
+DOMAIN-SUFFIX, zijieapi.com
+DOMAIN-SUFFIX, jiguang.cn
+DOMAIN-KEYWORD, -toutiao
+DOMAIN-SUFFIX, simengadx.com
+DOMAIN-SUFFIX, jvshi.net
+DOMAIN-SUFFIX, admobile.top
 DOMAIN-SUFFIX,xianliao.me
 DOMAIN-KEYWORD,taboola
 DOMAIN-SUFFIX,tagtic.cn
 DOMAIN-SUFFIX,gifshow.com
+# 欺诈性网站警告
+#https://developers.google.com/safe-browsing/
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN,safebrowsing.googleapis-cn.com
+# https://anquan.baidu.com/article/281
+DOMAIN,lookup.api.bsb.baidu.com
+# https://opensource.apple.com/source/WebKit2/WebKit2-7607.2.6.1.1/UIProcess/Cocoa/SafeBrowsingWarningCocoa.mm.auto.html
+DOMAIN-SUFFIX,urlsec.qq.com
+DOMAIN,safebrowsing.urlsec.qq.com
+DOMAIN,www.urlsec.qq.com
 # Shenzhen Unicom Float
 IP-CIDR,120.80.57.123/32
