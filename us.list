@@ -1,6 +1,5 @@
 DOMAIN-SUFFIX,paxos.com,US
 DOMAIN-SUFFIX,coinbase.com,US
-DOMAIN-SUFFIX,bing.com,US
 DOMAIN-SUFFIX,yahoo.com,US
 DOMAIN-SUFFIX,yahoo.net,US
 DOMAIN-SUFFIX,vimeo.com,US
@@ -34,3 +33,29 @@ DOMAIN-SUFFIX,whatsapp.com,US
 DOMAIN-SUFFIX,whatsapp.net,US
 DOMAIN-KEYWORD,.facebook.,US
 USER-AGENT,FBiOSSDK*,US
+
+# > Bing
+DOMAIN-SUFFIX,bing.com,US
+DOMAIN-SUFFIX,bing.com.cn,US
+DOMAIN-SUFFIX,bing.net,US
+DOMAIN-SUFFIX,bingads.com,US
+DOMAIN-SUFFIX,bingagencyawards.com,US
+DOMAIN-SUFFIX,bingapistatistics.com,US
+DOMAIN-SUFFIX,bingsandbox.com,US
+DOMAIN-SUFFIX,bingvisualsearch.com,US
+DOMAIN-SUFFIX,bingworld.com,US
+DOMAIN-SUFFIX,bluehatnights.com,US
+DOMAIN-SUFFIX,dictate.ms,US
+DOMAIN-SUFFIX,ditu.live.com,US
+DOMAIN-SUFFIX,flipwithsurface.com,US
+DOMAIN-SUFFIX,masalladeloslimites.com,US
+DOMAIN-SUFFIX,microsoft-give.com,US
+DOMAIN-SUFFIX,microsoftcloudsummit.com,US
+DOMAIN-SUFFIX,microsoftdiplomados.com,US
+DOMAIN-SUFFIX,microsoftlatamholiday.com,US
+DOMAIN-SUFFIX,microsoftmxfilantropia.com,US
+DOMAIN-SUFFIX,microsoftpartnersolutions.com,US
+DOMAIN-SUFFIX,msunlimitedcloudsummit.com,US
+DOMAIN-SUFFIX,renovacionoffice.com,US
+DOMAIN-SUFFIX,sprinklesapp.com,US
+
