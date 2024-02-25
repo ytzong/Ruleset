@@ -1,5 +1,6 @@
 # weiphone
-DOMAIN-SUFFIX, zijieapi.com, REJECT
+# 会影响抖音验证码
+# DOMAIN-SUFFIX, zijieapi.com, REJECT
 DOMAIN-SUFFIX, jiguang.cn, REJECT
 DOMAIN-KEYWORD, -toutiao, REJECT
 DOMAIN-SUFFIX, simengadx.com, REJECT
