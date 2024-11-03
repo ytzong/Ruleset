@@ -24,7 +24,7 @@ DOMAIN,updates.cdn-apple.com,APPLEDL
 # App Store & iTunes Images
 DOMAIN-SUFFIX,mzstatic.com,APPLEDL
 # Mac App Store
-PROCESS-NAME,storedownloadd,APPLEDL
+# PROCESS-NAME,storedownloadd,APPLEDL
 # iOS App Store
 USER-AGENT,com.apple.appstored*,APPLEDL
 # iTunes

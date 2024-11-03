@@ -22,7 +22,7 @@ DOMAIN,updates.cdn-apple.com
 # App Store & iTunes Images
 DOMAIN-SUFFIX,mzstatic.com
 # Mac App Store
-PROCESS-NAME,storedownloadd
+# PROCESS-NAME,storedownloadd
 # iOS App Store
 # iTunes
 DOMAIN,aod.itunes.apple.com
