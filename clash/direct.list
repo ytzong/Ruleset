@@ -37,6 +37,54 @@ DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN-SUFFIX,zte.home
+# Apple 直连
+#
+# Weather
+DOMAIN,weather-data.apple.com
+# Maps
+# Settings
+#
+# Apple 其他直连
+#
+# Store
+DOMAIN-SUFFIX,store.apple.com
+# Spotlight
+DOMAIN,api.smoot.apple.com
+DOMAIN,api.smoot.apple.cn
+# Hotspot captive
+DOMAIN,captive.apple.com
+# Apple Pay
+DOMAIN,smp-device-content.apple.com
+DOMAIN-KEYWORD,smp-device
+# locationd
+DOMAIN,gs-loc.apple.com
+DOMAIN,gs-loc-cn.apple.com
+DOMAIN-SUFFIX,ls.apple.com.akadns.net
+DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
+# Reserve
+DOMAIN,reserve-prime.apple.com
+# Push
+DOMAIN-KEYWORD,push-apple.com.akadns.net
+DOMAIN-SUFFIX,push.apple.com.akadns.net
+DOMAIN-SUFFIX,push.apple.com
+# GeoServices.framework
+DOMAIN-SUFFIX,ls.apple.com
+# Asset Cache Locator Service
+DOMAIN-SUFFIX,lcdn-locator.apple.com
+# Caching Server Registration
+DOMAIN,lcdn-registration.apple.com
+DOMAIN,suconfig.apple.com
+DOMAIN,xp-cdn.apple.com
+# Translation
+# See https://github.com/ripperhe/Bob/issues/405
+DOMAIN,sequoia.apple.com
+DOMAIN,seed-sequoia.siri.apple.com
+# Settings
+DOMAIN,sq-device.apple.com
+# CN specific
+DOMAIN-KEYWORD,-cn.apple.com
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,apple.com.cn
 # 农行
 # > Velo
 DOMAIN-KEYWORD,velobank

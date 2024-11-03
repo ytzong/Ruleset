@@ -1,0 +1,58 @@
+# iCloud 上传和下载
+DOMAIN-SUFFIX,icloud-content.com,APPLEDL
+DOMAIN-SUFFIX,me.com,APPLEDL
+DOMAIN-SUFFIX,apple.com,APPLEDL
+DOMAIN-SUFFIX,icloud.com,APPLEDL
+DOMAIN-SUFFIX,apple-cloudkit.com,APPLEDL
+
+
+#
+# Apple Global CDN
+#
+# iOS App Store
+DOMAIN,iosapps.itunes.apple.com,APPLEDL
+# Mac App Store
+DOMAIN,osxapps.itunes.apple.com,APPLEDL
+DOMAIN,oscdn.apple.com,APPLEDL
+# Update
+DOMAIN,supportdownload.apple.com,APPLEDL
+DOMAIN,appldnld.apple.com,APPLEDL
+DOMAIN,appldnld.apple.com.edgesuite.net,APPLEDL
+DOMAIN,swcdn.apple.com,APPLEDL
+DOMAIN,updates-http.cdn-apple.com,APPLEDL
+DOMAIN,updates.cdn-apple.com,APPLEDL
+# App Store & iTunes Images
+DOMAIN-SUFFIX,mzstatic.com,APPLEDL
+# Mac App Store
+PROCESS-NAME,storedownloadd,APPLEDL
+# iOS App Store
+USER-AGENT,com.apple.appstored*,APPLEDL
+# iTunes
+DOMAIN,aod.itunes.apple.com,APPLEDL
+DOMAIN,mvod.itunes.apple.com,APPLEDL
+DOMAIN,streamingaudio.itunes.apple.com,APPLEDL
+DOMAIN,apptrailers.itunes.apple.com,APPLEDL
+# Other
+DOMAIN,download.developer.apple.com,APPLEDL
+DOMAIN,downloaddispatch.itunes.apple.com,APPLEDL
+DOMAIN,app-site-association.cdn-apple.com,APPLEDL
+
+#
+# Apple Non-China CDN
+#
+# iTunes
+DOMAIN-SUFFIX,hls.itunes.apple.com,APPLEDL
+DOMAIN-SUFFIX,hls-amt.itunes.apple.com,APPLEDL
+DOMAIN-SUFFIX,audio-ssl.itunes.apple.com,APPLEDL
+DOMAIN-SUFFIX,cdn-apple.com,APPLEDL
+DOMAIN,cdn.apple-cloudkit.com,APPLEDL
+# Developer
+DOMAIN,devimages-cdn.apple.com,APPLEDL
+DOMAIN,devstreaming-cdn.apple.com,APPLEDL
+DOMAIN,js-cdn.music.apple.com,APPLEDL
+DOMAIN,docs-assets.developer.apple.com,APPLEDL
+# Other
+DOMAIN-SUFFIX,apple-dns.net,APPLEDL
+# OCSP
+DOMAIN-SUFFIX,ocsp.apple.com,APPLEDL
+USER-AGENT,com.apple.trustd*,APPLEDL

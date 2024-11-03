@@ -1,0 +1,35 @@
+#
+# 一些 com.apple.appstored* 会连接的 API（优先级高）
+#
+DOMAIN,guzzoni.apple.com,APPLE
+DOMAIN,apps.apple.com,APPLE
+DOMAIN,xp.apple.com,APPLE
+DOMAIN,bag.itunes.apple.com,APPLE
+DOMAIN,api-edge.apps.apple.com,APPLE
+DOMAIN,api.apps.apple.com,APPLE
+DOMAIN,play.itunes.apple.com,APPLE
+DOMAIN,se.itunes.apple.com,APPLE
+DOMAIN,se-edge.itunes.apple.com,APPLE
+DOMAIN,su.itunes.apple.com,APPLE
+DOMAIN,upp.itunes.apple.com,APPLE
+DOMAIN,beta.music.apple.com,APPLE
+DOMAIN-KEYWORD,buy.itunes.apple.com,APPLE
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net,APPLE
+
+#
+# Apple 其他自选
+#
+# iMessage
+DOMAIN-SUFFIX,ess.apple.com,APPLE
+# Apple Music
+DOMAIN-SUFFIX,music.apple.com,APPLE
+DOMAIN-SUFFIX,sonos-music.apple.com,APPLE
+# Configuration
+DOMAIN,configuration.apple.com,APPLE
+# Others
+DOMAIN-SUFFIX,aaplimg.com,APPLE
+DOMAIN-SUFFIX,apple.co,APPLE
+DOMAIN-SUFFIX,itunes.com,APPLE
+DOMAIN-SUFFIX,itunes.apple.com,APPLE
+DOMAIN-SUFFIX,apple,APPLE
+DOMAIN,weather-analytics-events.apple.com,APPLE
