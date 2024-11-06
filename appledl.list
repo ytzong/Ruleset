@@ -1,8 +1,5 @@
 # iCloud 上传和下载
 DOMAIN-SUFFIX,icloud-content.com,APPLEDL
-DOMAIN-SUFFIX,me.com,APPLEDL
-DOMAIN-SUFFIX,apple.com,APPLEDL
-DOMAIN-SUFFIX,icloud.com,APPLEDL
 DOMAIN-SUFFIX,apple-cloudkit.com,APPLEDL
 
 

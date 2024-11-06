@@ -1,3 +1,4 @@
+#### 顺序 direct > appledl > apple
 #
 # 一些 com.apple.appstored* 会连接的 API（优先级高）
 #
@@ -32,3 +33,6 @@ DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,apple
 DOMAIN,weather-analytics-events.apple.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com

@@ -34,3 +34,8 @@ DOMAIN-SUFFIX,itunes.com,APPLE
 DOMAIN-SUFFIX,itunes.apple.com,APPLE
 DOMAIN-SUFFIX,apple,APPLE
 DOMAIN,weather-analytics-events.apple.com,APPLE
+
+
+DOMAIN-SUFFIX,me.com,APPLE
+DOMAIN-SUFFIX,apple.com,APPLE
+DOMAIN-SUFFIX,icloud.com,APPLE
