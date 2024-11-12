@@ -10,6 +10,13 @@ DOMAIN-SUFFIX,51btsite.com,US
 
 # > Twitter
 DOMAIN-SUFFIX,twitter.com,US
+DOMAIN-SUFFIX,pscp.tv,US
+DOMAIN-SUFFIX,periscope.tv,US
+DOMAIN-SUFFIX,t.co,US
+DOMAIN-SUFFIX,twimg.co,US
+DOMAIN-SUFFIX,twimg.com,US
+DOMAIN-SUFFIX,twitpic.com,US
+DOMAIN-SUFFIX,vine.co,US
 
 # > Fackbook
 DOMAIN-SUFFIX,facebook.com,US

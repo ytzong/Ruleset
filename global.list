@@ -21,10 +21,12 @@ DOMAIN-KEYWORD,tiktok,PROXY
 USER-AGENT,Aweme*,PROXY
 IP-CIDR,8.8.8.8/32,PROXY,no-resolve
 
+# > Google 跳转
+DOMAIN-SUFFIX,googleadservices.com,PROXY
 
 # > Fackbook CDN
-DOMAIN-SUFFIX,cdninstagram.com,US
-DOMAIN-SUFFIX,fbcdn.net,US
+DOMAIN-SUFFIX,cdninstagram.com,PROXY
+DOMAIN-SUFFIX,fbcdn.net,PROXY
 
 # > ₿
 DOMAIN-SUFFIX,qkl123.com,PROXY
@@ -60,15 +62,6 @@ IP-CIDR,91.108.20.0/22,PROXY,no-resolve
 IP-CIDR,91.108.56.0/22,PROXY,no-resolve
 IP-CIDR,95.161.64.0/20,PROXY,no-resolve
 IP-CIDR,149.154.160.0/20,PROXY,no-resolve
-
-# > Twitter CDN
-DOMAIN-SUFFIX,pscp.tv,PROXY
-DOMAIN-SUFFIX,periscope.tv,PROXY
-DOMAIN-SUFFIX,t.co,PROXY
-DOMAIN-SUFFIX,twimg.co,PROXY
-DOMAIN-SUFFIX,twimg.com,PROXY
-DOMAIN-SUFFIX,twitpic.com,PROXY
-DOMAIN-SUFFIX,vine.co,PROXY
 
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,wikileaks.org,PROXY

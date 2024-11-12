@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,sensortower.com
 DOMAIN-SUFFIX,cnbeta.com
 DOMAIN-KEYWORD,tiktok
 IP-CIDR,8.8.8.8/32
+# > Google 跳转
+DOMAIN-SUFFIX,googleadservices.com
 # > Fackbook CDN
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,fbcdn.net
@@ -51,14 +53,6 @@ IP-CIDR,91.108.20.0/22
 IP-CIDR,91.108.56.0/22
 IP-CIDR,95.161.64.0/20
 IP-CIDR,149.154.160.0/20
-# > Twitter CDN
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,vine.co
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikimapia.org
