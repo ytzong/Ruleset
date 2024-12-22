@@ -34,6 +34,18 @@ USER-AGENT,CloudSpeed*,DIRECT
 USER-AGENT,SpeedTest*,DIRECT
 DOMAIN-KEYWORD,speedtest,DIRECT
 
+# HK Bank
+DOMAIN-SUFFIX,zafinsvc.com,DIRECT
+DOMAIN-SUFFIX,zajourney.com,DIRECT
+DOMAIN-SUFFIX,za.group,DIRECT
+DOMAIN-SUFFIX,hsbc.com.hk,DIRECT
+DOMAIN-SUFFIX,bochk.com,DIRECT
+DOMAIN-SUFFIX,airstarbank.com,DIRECT
+
+DOMAIN-SUFFIX,taobao.com,DIRECT
+DOMAIN-SUFFIX,mmstat.com,DIRECT
+DOMAIN-SUFFIX,crashlytics.com,PROXY
+
 # > Router managed
 DOMAIN-SUFFIX,tplogin.cn,DIRECT
 DOMAIN-SUFFIX,router.asus.com,DIRECT
