@@ -24,6 +24,18 @@ DOMAIN-SUFFIX,hxm5.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,eduaiplat.com
 DOMAIN-KEYWORD,speedtest
+# HK Bank
+DOMAIN-SUFFIX,zafinsvc.com
+DOMAIN-SUFFIX,zajourney.com
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,welab.bank
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,crashlytics.com
 # > Router managed
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,router.asus.com
