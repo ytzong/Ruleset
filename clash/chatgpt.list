@@ -1,5 +1,6 @@
 # https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/OpenAI/OpenAI.list
-DOMAIN-KEYWORD,apple-relay
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.apple.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,gemini.google.com
