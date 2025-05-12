@@ -37,6 +37,7 @@ DOMAIN,app-site-association.cdn-apple.com
 DOMAIN-SUFFIX,hls.itunes.apple.com
 DOMAIN-SUFFIX,hls-amt.itunes.apple.com
 DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
+DOMAIN-SUFFIX,aodp-ssl.itunes.apple.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN,cdn.apple-cloudkit.com
 # Developer
