@@ -23,6 +23,15 @@ DOMAIN-KEYWORD,tiktok
 IP-CIDR,8.8.8.8/32
 # > Google 跳转
 DOMAIN-SUFFIX,googleadservices.com
+# > Twitter
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,vine.co
 # > Fackbook CDN
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,fbcdn.net

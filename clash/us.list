@@ -6,15 +6,6 @@ DOMAIN-SUFFIX,vevo.com
 DOMAIN-SUFFIX,xite.com
 DOMAIN-KEYWORD,51btsite
 DOMAIN-SUFFIX,sensortower.com
-# > Twitter
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,vine.co
 # > Fackbook
 DOMAIN-SUFFIX,facebook.com
 #DOMAIN-SUFFIX,cdninstagram.com
