@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,amazon.co.jp,JP
 DOMAIN-KEYWORD,binance,JP
 USER-AGENT,BNC*,JP
 
+DOMAIN-SUFFIX,coinbase.com,JP
+
 DOMAIN-KEYWORD,bybit,JP
 USER-AGENT,bybit_app*,JP
 DOMAIN-SUFFIX,byapps.net,JP
