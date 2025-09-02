@@ -6,14 +6,6 @@ DOMAIN-SUFFIX,xite.com,US
 DOMAIN-KEYWORD,51btsite,US
 DOMAIN-SUFFIX,sensortower.com,US
 
-# STOCKS
-
-USER-AGENT,"Retail_iPad*",US
-USER-AGENT,"SchwabMobile*",US
-USER-AGENT,"thinkorswim*",US
-DOMAIN-SUFFIX,schwab.com,US
-DOMAIN-SUFFIX,firstrade.com,US
-
 # > Fackbook
 DOMAIN-SUFFIX,facebook.com,US
 #DOMAIN-SUFFIX,cdninstagram.com,US

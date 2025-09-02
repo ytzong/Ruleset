@@ -1,0 +1,7 @@
+# STOCKS
+
+USER-AGENT,"Retail_iPad*",US
+USER-AGENT,"SchwabMobile*",US
+USER-AGENT,"thinkorswim*",US
+DOMAIN-SUFFIX,schwab.com,US
+DOMAIN-SUFFIX,firstrade.com,US
