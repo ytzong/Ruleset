@@ -4,4 +4,6 @@ USER-AGENT,"Retail_iPad*",US
 USER-AGENT,"SchwabMobile*",US
 USER-AGENT,"thinkorswim*",US
 DOMAIN-SUFFIX,schwab.com,US
+
+USER-AGENT,"Firstrade*",US
 DOMAIN-SUFFIX,firstrade.com,US
