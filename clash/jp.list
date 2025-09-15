@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,firstrade.com
 DOMAIN-KEYWORD,binance
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-KEYWORD,bybit
@@ -17,4 +18,7 @@ DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,onekeycn.com
 DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN-SUFFIX,neverless.com
-DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,isafepal.com
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,rabby.io
+DOMAIN-KEYWORD,metamask

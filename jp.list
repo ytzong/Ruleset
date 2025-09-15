@@ -2,6 +2,9 @@ DOMAIN-SUFFIX,dmm.com,JP
 DOMAIN-SUFFIX,dmm.co.jp,JP
 DOMAIN-SUFFIX,amazon.co.jp,JP
 
+USER-AGENT,"Firstrade*",US
+DOMAIN-SUFFIX,firstrade.com,US
+
 DOMAIN-KEYWORD,binance,JP
 USER-AGENT,BNC*,JP
 
@@ -28,4 +31,10 @@ DOMAIN-SUFFIX,onekey-asset.com,JP
 
 DOMAIN-SUFFIX,neverless.com,JP
 
-DOMAIN-SUFFIX,bitget.com,JP
+DOMAIN-SUFFIX,isafepal.com,JP
+
+DOMAIN-SUFFIX,uniswap.org,JP
+
+DOMAIN-SUFFIX,rabby.io,JP
+
+DOMAIN-KEYWORD,metamask,JP
