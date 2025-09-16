@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,vevo.com
 DOMAIN-SUFFIX,xite.com
 DOMAIN-KEYWORD,51btsite
 DOMAIN-SUFFIX,sensortower.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.apple.com
 # > Fackbook
 DOMAIN-SUFFIX,facebook.com
 #DOMAIN-SUFFIX,cdninstagram.com

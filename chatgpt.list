@@ -1,6 +1,4 @@
 # https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/OpenAI/OpenAI.list
-DOMAIN,apple-relay.cloudflare.com,CHATGPT
-DOMAIN,apple-relay.apple.com,CHATGPT
 DOMAIN,browser-intake-datadoghq.com,CHATGPT
 DOMAIN,chat.openai.com.cdn.cloudflare.net,CHATGPT
 DOMAIN,gemini.google.com,CHATGPT
