@@ -2,8 +2,15 @@ DOMAIN-SUFFIX,dmm.com,JP
 DOMAIN-SUFFIX,dmm.co.jp,JP
 DOMAIN-SUFFIX,amazon.co.jp,JP
 
-USER-AGENT,"Firstrade*",US
-DOMAIN-SUFFIX,firstrade.com,US
+USER-AGENT,"Firstrade*",JP
+DOMAIN-SUFFIX,firstrade.com,JP
+
+DOMAIN-KEYWORD,polymarket,JP
+DOMAIN-SUFFIX,neverless.com,JP
+DOMAIN-SUFFIX,isafepal.com,JP
+DOMAIN-SUFFIX,uniswap.org,JP
+DOMAIN-SUFFIX,rabby.io,JP
+DOMAIN-KEYWORD,metamask,JP
 
 DOMAIN-KEYWORD,binance,JP
 USER-AGENT,BNC*,JP
@@ -17,24 +24,16 @@ DOMAIN-SUFFIX,bybdc6.com,JP
 DOMAIN-SUFFIX,byd3c3.com,JP
 DOMAIN-SUFFIX,byabcde.com,JP
 
-DOMAIN-KEYWORD,polymarket,JP
-
-DOMAIN-SUFFIX,okx.com,JP
-
-DOMAIN-SUFFIX,bitget.com,JP
-DOMAIN-SUFFIX,bitapi.vip,JP
-DOMAIN-SUFFIX,bitkeep.vip,JP
+DOMAIN-KEYWORD,bitget,JP
+DOMAIN-KEYWORD,bitapi,JP
+DOMAIN-KEYWORD,bitkeep,JP
+DOMAIN-KEYWORD,bitapi,JP
+DOMAIN-KEYWORD,api-app-slow,JP
+DOMAIN-SUFFIX,chainnear.com,JP
+DOMAIN-SUFFIX,lymryy.com,JP
+DOMAIN-SUFFIX,ljhsnzpc.com,JP
 
 DOMAIN-SUFFIX,onekey.so,JP
 DOMAIN-SUFFIX,onekeycn.com,JP
 DOMAIN-SUFFIX,onekey-asset.com,JP
 
-DOMAIN-SUFFIX,neverless.com,JP
-
-DOMAIN-SUFFIX,isafepal.com,JP
-
-DOMAIN-SUFFIX,uniswap.org,JP
-
-DOMAIN-SUFFIX,rabby.io,JP
-
-DOMAIN-KEYWORD,metamask,JP
