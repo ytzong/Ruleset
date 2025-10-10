@@ -26,14 +26,19 @@ DOMAIN-SUFFIX,bybdc6.com,JP
 DOMAIN-SUFFIX,byd3c3.com,JP
 DOMAIN-SUFFIX,byabcde.com,JP
 
+USER-AGENT,"Bitget*",JP
 DOMAIN-KEYWORD,bitget,JP
 DOMAIN-KEYWORD,bitapi,JP
 DOMAIN-KEYWORD,bitkeep,JP
 DOMAIN-KEYWORD,bitapi,JP
 DOMAIN-KEYWORD,api-app-slow,JP
+DOMAIN-KEYWORD,api-app-grpc,JP
+DOMAIN-KEYWORD,wwmxd,JP
+DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,chainnear.com,JP
 DOMAIN-SUFFIX,lymryy.com,JP
 DOMAIN-SUFFIX,ljhsnzpc.com,JP
+
 
 DOMAIN-SUFFIX,onekey.so,JP
 DOMAIN-SUFFIX,onekeycn.com,JP
