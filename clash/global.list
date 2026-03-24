@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,celebjihad.com
 DOMAIN-SUFFIX,sensortower.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yahoo.net
+DOMAIN-SUFFIX,global.market.xiaomi.com
 DOMAIN-SUFFIX,cnbeta.com
 DOMAIN-KEYWORD,tiktok
 IP-CIDR,8.8.8.8/32
@@ -77,6 +78,7 @@ DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+# DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,advertisercommunity.com
