@@ -24,6 +24,9 @@ DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,eduaiplat.com
 DOMAIN-SUFFIX,landiannews.com
 DOMAIN-SUFFIX,kelee.one
+DOMAIN-SUFFIX,time-ios.apple.com
+DOMAIN-SUFFIX,time-mac.apple.com
+DOMAIN-SUFFIX,time.apple.com
 DOMAIN-KEYWORD,speedtest
 # HK Bank
 DOMAIN-SUFFIX,zafinsvc.com
