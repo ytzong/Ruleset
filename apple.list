@@ -2,23 +2,27 @@
 #
 # 一些 com.apple.appstored* 会连接的 API（优先级高）
 #
-DOMAIN,guzzoni.apple.com,APPLE
-DOMAIN,apps.apple.com,APPLE
-DOMAIN,xp.apple.com,APPLE
-DOMAIN,bag.itunes.apple.com,APPLE
-DOMAIN,api-edge.apps.apple.com,APPLE
-DOMAIN,api.apps.apple.com,APPLE
-DOMAIN,play.itunes.apple.com,APPLE
-DOMAIN,se.itunes.apple.com,APPLE
-DOMAIN,se-edge.itunes.apple.com,APPLE
-DOMAIN,su.itunes.apple.com,APPLE
-DOMAIN,upp.itunes.apple.com,APPLE
-DOMAIN,beta.music.apple.com,APPLE
+DOMAIN-SUFFIX,guzzoni.apple.com,APPLE
+DOMAIN-SUFFIX,apps.apple.com,APPLE
+DOMAIN-SUFFIX,xp.apple.com,APPLE
+DOMAIN-SUFFIX,bag.itunes.apple.com,APPLE
+DOMAIN-SUFFIX,api-edge.apps.apple.com,APPLE
+DOMAIN-SUFFIX,api.apps.apple.com,APPLE
+DOMAIN-SUFFIX,play.itunes.apple.com,APPLE
+DOMAIN-SUFFIX,se.itunes.apple.com,APPLE
+DOMAIN-SUFFIX,se-edge.itunes.apple.com,APPLE
+DOMAIN-SUFFIX,su.itunes.apple.com,APPLE
+DOMAIN-SUFFIX,upp.itunes.apple.com,APPLE
+DOMAIN-SUFFIX,beta.music.apple.com,APPLE
 DOMAIN-KEYWORD,buy.itunes.apple.com,APPLE
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net,APPLE
 
 #
 # Apple 其他自选
+# Push
+DOMAIN-KEYWORD,push-apple.com.akadns.net,DIRECT
+DOMAIN-SUFFIX,push.apple.com.akadns.net,DIRECT
+DOMAIN-SUFFIX,push.apple.com,DIRECT
 #
 # iMessage
 DOMAIN-SUFFIX,ess.apple.com,APPLE

@@ -5,8 +5,6 @@ DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,wietone.com
 DOMAIN-SUFFIX,fastspring.com
 DOMAIN-SUFFIX,icanhazip.com
-DOMAIN-SUFFIX,vultr.com
-DOMAIN-SUFFIX,virmach.com
 DOMAIN-SUFFIX,appannie.com
 DOMAIN-KEYWORD,mac-torrents.com
 DOMAIN-SUFFIX,melogin.cn
@@ -81,10 +79,6 @@ DOMAIN-SUFFIX,ls.apple.com.akadns.net
 DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
 # Reserve
 DOMAIN,reserve-prime.apple.com
-# Push
-DOMAIN-KEYWORD,push-apple.com.akadns.net
-DOMAIN-SUFFIX,push.apple.com.akadns.net
-DOMAIN-SUFFIX,push.apple.com
 # GeoServices.framework
 DOMAIN-SUFFIX,ls.apple.com
 # Asset Cache Locator Service

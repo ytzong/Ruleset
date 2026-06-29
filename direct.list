@@ -5,8 +5,6 @@ DOMAIN-SUFFIX,xhscdn.com,DIRECT
 DOMAIN-SUFFIX,wietone.com,DIRECT
 DOMAIN-SUFFIX,fastspring.com,DIRECT
 DOMAIN-SUFFIX,icanhazip.com,DIRECT
-DOMAIN-SUFFIX,vultr.com,DIRECT
-DOMAIN-SUFFIX,virmach.com,DIRECT
 DOMAIN-SUFFIX,appannie.com,DIRECT
 DOMAIN-KEYWORD,mac-torrents.com,DIRECT
 DOMAIN-SUFFIX,melogin.cn,DIRECT
@@ -111,10 +109,6 @@ DOMAIN-SUFFIX,ls.apple.com.akadns.net,DIRECT
 DOMAIN-SUFFIX,ls.apple.com.edgesuite.net,DIRECT
 # Reserve
 DOMAIN,reserve-prime.apple.com,DIRECT
-# Push
-DOMAIN-KEYWORD,push-apple.com.akadns.net,DIRECT
-DOMAIN-SUFFIX,push.apple.com.akadns.net,DIRECT
-DOMAIN-SUFFIX,push.apple.com,DIRECT
 # GeoServices.framework
 DOMAIN-SUFFIX,ls.apple.com,DIRECT
 # Asset Cache Locator Service
