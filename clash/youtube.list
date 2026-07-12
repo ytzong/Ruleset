@@ -4,7 +4,7 @@ DOMAIN,music.youtube.com
 # > Youtube
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,googleapis.com
+DOMAIN-KEYWORD,googleapis
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,googleusercontent.com
